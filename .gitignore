@@ -1,0 +1,7 @@
+campus-notifications/node_modules/
+campus-notifications/build/
+campus-notifications/.git-backup/
+campus-notifications/.env.local
+campus-notifications/.env.development.local
+campus-notifications/.env.test.local
+campus-notifications/.env.production.local
